@@ -1,7 +1,5 @@
 import React from "react";
 import { Switch, Route, Redirect, withRouter } from "react-router-dom";
-
-// Components
 import Sidebar from "./Sidebar";
 import Loading from "./Loading";
 import AuthorsList from "./AuthorsList";
